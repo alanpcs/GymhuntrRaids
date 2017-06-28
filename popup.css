@@ -1,0 +1,21 @@
+body{
+	width: 150px;
+}
+button{
+	width: 100%;
+	display: inline-block;
+}
+#hide{
+	line-height: 16px;
+}
+.silver, .gold{
+	height: 16px;
+	width: 16px;
+	display: inline-block;
+}
+.gold{
+	background-image: url(images/rhydonGold16.png);
+}
+.silver{
+	background-image: url(images/rhydonSilver16.png);
+}
