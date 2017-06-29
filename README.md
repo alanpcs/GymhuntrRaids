@@ -3,17 +3,27 @@
 
 A simple Chrome Extension that adds a panel with buttons that hide/show gyms within Gymhuntr.com according to their raid levels.
 
-## Examples
+---
+
+## Screenshots
 Here are some screenshot of the extension running.
 
+### Default state: All gyms shown
 ![Default state: All gyms shown](images/screenshots/normal.jpg)
+### Toggle all: hide/show all gyms
 ![Toggle all: hide/show all gyms](images/screenshots/Hidden.jpg)
+### Showing lv 3 raids
 ![showing lv 3 raids](images/screenshots/gym3shown.jpg)
-![Showing lv 4 and lv 3 raids: hide/show all gyms](images/screenshots/gym3shown.jpg)
+### Showing lv 4 and lv 3 raids: hide/show all gyms
+![Showing lv 4 and lv 3 raids: hide/show all gyms](images/screenshots/gym3_4shown.jpg)
 
-### Todo
+---
+
+## Todo
 
 * Add filter by Raid Boss name
+
+---
 
 ## Contributing
 
